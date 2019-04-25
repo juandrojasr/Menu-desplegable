@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Centat"
+            android:title="Centros de Atencion" />
+        <item
+            android:id="@+id/Testvul"
+            android:title="Test de Vulnerabilidad" />
+        <item
+            android:id="@+id/Casovio"
+            android:title="En Caso de Violencia" />
+        <item
+            android:id="@+id/Lineaeme"
+            android:title="Linea de Emergencia" />
+    </group>
+
+</menu>
