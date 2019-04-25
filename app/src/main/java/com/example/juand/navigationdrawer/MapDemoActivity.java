@@ -56,6 +56,8 @@ public class MapDemoActivity extends AppCompatActivity {
 
     private final static String KEY_LOCATION = "location";
 
+
+    
     /*
      * Define a request code to send to Google Play services This code is
      * returned in Activity.onActivityResult
